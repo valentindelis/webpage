@@ -1,11 +1,11 @@
 ---
-title: Valentin Honore's webpage
-author: Valentin Honoré
+title: Valentin DELIS's webpage
+author: Valentin DELIS
 shortbio: Associate Professor (Maître de Conférences) at ensIIE
 description-meta: Associate Professor (Maître de Conférences) at ensIIE
 og-url: https://webpage.github.io
 location: Evry - ensIIE (Office 242) & Télécom SudParis/Samovar (Office C404)
-email: valentin.honore@ensiie.fr
+email: valentin.delis@ensiie.fr
 phone: 01.69.36.73.35
 picture: img/profile.png
 picture-round: false
@@ -15,14 +15,16 @@ og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0003-1028-5719
 dblp: https://dblp.org/pid/248/5108.html
 scholar: https://scholar.google.com/citations?user=AwYK-44AAAAJ&hl=fr
-github: valentinhon
+github: valentindelis
 gitlab: vhonore
-linkedin: https://www.linkedin.com/in/valentin-honore-334693100/
+linkedin: https://www.linkedin.com/in/valentin-delis-honore-334693100/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
+
+<span style="color:red"> !! NEWS!! Oct. 2025 : I changed my name from HONORE to DELIS </span> 
 
 Since September 2022, I am an Associate Professor at the [École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise (ensIIE)](https://www.ensiie.fr/) in Evry (France), a city in the south-east suburb of Paris. I am in charge of the HPC track (so called CIDM) at ensIIE. I am also the coordinator of the first semester of the engineering program.
 I teach in various courses of the 1st year, and I am giving an advanced course in 3rd year on scheduling and performance analysis (see [Teaching](teaching.html) page for more details).

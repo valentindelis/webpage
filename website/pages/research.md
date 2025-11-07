@@ -1,11 +1,11 @@
 ---
-title: Valentin Honore's webpage
-author: Valentin Honoré
+title: Valentin DELIS's webpage
+author: Valentin DELIS
 shortbio: Associate Professor (Maître de Conférences) at ensIIE
 description-meta: Associate Professor (Maître de Conférences) at ensIIE
 og-url: https://webpage.github.io
 location: Evry - ensIIE (Office 242) & Télécom SudParis/Samovar (Office C404)
-email: valentin.honore@ensiie.fr
+email: valentin.delis@ensiie.fr
 phone: 01.69.36.73.35
 picture: img/profile.png
 picture-round: false
@@ -15,9 +15,9 @@ og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0003-1028-5719
 dblp: https://dblp.org/pid/248/5108.html
 scholar: https://scholar.google.com/citations?user=AwYK-44AAAAJ&hl=fr
-github: valentinhon
+github: valentindelis
 gitlab: vhonore
-linkedin: https://www.linkedin.com/in/valentin-honore-334693100/
+linkedin: https://www.linkedin.com/in/valentin-delis-honore-334693100/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),

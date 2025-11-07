@@ -1,11 +1,11 @@
 ---
-title: Valentin Honore's webpage
-author: Valentin Honoré
+title: Valentin DELIS's webpage
+author: Valentin DELIS
 shortbio: Associate Professor (Maître de Conférences) at ensIIE
 description-meta: Associate Professor (Maître de Conférences) at ensIIE
 og-url: https://webpage.github.io
 location: Evry - ensIIE (Office 242) & Télécom SudParis/Samovar (Office C404)
-email: valentin.honore@ensiie.fr
+email: valentin.delis@ensiie.fr
 phone: 01.69.36.73.35
 picture: img/profile.png
 picture-round: false
@@ -15,9 +15,9 @@ og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0003-1028-5719
 dblp: https://dblp.org/pid/248/5108.html
 scholar: https://scholar.google.com/citations?user=AwYK-44AAAAJ&hl=fr
-github: valentinhon
+github: valentindelis
 gitlab: vhonore
-linkedin: https://www.linkedin.com/in/valentin-honore-334693100/
+linkedin: https://www.linkedin.com/in/valentin-delis-honore-334693100/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
@@ -28,7 +28,6 @@ footer: >-
 The VHS project has been selected in the framework of the AAPG 2025 Call for Projects from ANR, with a JCJC funding.
 
 The project will start in **March 2026**, and will last until **September 2029**!
-
 
 # Abstract
 
@@ -59,7 +58,6 @@ Our methodology starts from the tapes themselves, to better understand the physi
 Come back in fall 2025 for more details about the VHS project!
 
 This webpage will be updated by the end of 2025 with all information on the progress of the project.
-
 
 
 # [Return to main page](https://valentinhon.github.io/webpage/)
