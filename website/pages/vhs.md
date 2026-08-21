@@ -7,7 +7,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-Welcome to the VHS project webpage!
+<h1>**Welcome to the VHS project webpage!**<h1>
 
 The VHS project has been selected in the framework of the AAPG 2025 Call for Projects from ANR, with a JCJC funding.
 The project will start in **March 2026**, and will last until **September 2029**!
