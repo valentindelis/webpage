@@ -47,7 +47,7 @@ hierarchy by optimizing its operational cost.
 
 # Project details
 
-The scientific document of the project can be found <a href="webpage/files/ANR_VHS_phase_2.pdf">here</a>.
+The scientific document of the project can be found <a href="files/ANR_VHS_phase_2.pdf">here</a>.
 The project consists of: 
   - a PhD grant of 3 years
   - a budget for hardware to own our own tape drive
@@ -71,7 +71,7 @@ Thank you IBM and UGAP for the support!
 
 ## Sept. 2026
 Louis DELYON will start his PhD thesis on the VHS project funding. Welcome aboard Louis!
-The subject of the PhD can be found <a href="webpage/files/sujet_thèse.pdf">here</a>.
+The subject of the PhD can be found <a href="files/sujet_thèse.pdf">here</a>.
 
 
 # [Return to Valentin DELIS's main page](https://valentindelis.github.io/webpage/)
