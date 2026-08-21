@@ -1,6 +1,6 @@
 ---
 title: ANR JCJC VHS project webpage
-
+name: ANR JCJC VHS project webpage
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
