@@ -50,17 +50,17 @@ hierarchy by optimizing its operational cost.
 The scientific document of the project can be found <a href="files/ANR_VHS_phase_2.pdf">here</a>.
 The project consists of: 
   - a PhD grant of 3 years
-  - a budget for hardware to own our own tape drive
+  - a budget for hardware, including the one to own a high-performance last generation tape drive
   - a budget for missions and workshop organization
 
-With the hardware budget, we will setup on a [LTO-10 tape drive](https://www.ibm.com/fr-fr/products/lto-tape-drive) with a set of tapes. 
+With the hardware budget, we will setup a [LTO-10 tape drive](https://www.ibm.com/fr-fr/products/lto-tape-drive) with a set of tapes. 
 To integrate the drive in our local cluster, we will use an [IBM TS4300](https://www.ibm.com/fr-fr/products/ts4300), that allows to rack the drive in a computing cabinet.
 
 
 # Project progress
 
 ## Feb. 2026
-We ordered the hardware! (see #project-details for specifications).
+We ordered the project hardware!.
 
 ## July 2026
 We finally received the hardware, just in time to start working on it!
@@ -71,6 +71,7 @@ Thank you IBM and UGAP for the support!
 
 ## Sept. 2026
 Louis DELYON will start his PhD thesis on the VHS project funding. Welcome aboard Louis!
+
 The subject of the PhD can be found <a href="files/sujet_thèse.pdf">here</a>.
 
 
