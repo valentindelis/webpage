@@ -14,21 +14,21 @@ The project will start in **March 2026**, and will last until **September 2029**
 
 # Project abstract 
 
-<p style="text-align:justify> Magnetic tapes have been used to store computer data since the 1950s, so the layman now
+<p align="justify">Magnetic tapes have been used to store computer data since the 1950s, so the layman now
 often considers it as an outdated technology. However, tape storage is still and will remain essential in
 many fields such as academic research, international organisations or cloud companies for its strong practical benefits: low cost per TB, low energy consumption, longevity etc...
 This dependency on tapes has motivated industrial efforts in technology improvements, resulting in much faster data density progression on tape rather than on
 disk. After recent breakthroughs in materials used, tape capacity is expected to witness a massive
 leap in coming years, increasing to several hundreds of TB per tape. This evolution will amplify the main benefits of tape storage.</p>
 
-<p style="text-align:justify>However, tapes have often been primarily considered for archiving cold data, because of their main
+<p align="justify">However, tapes have often been primarily considered for archiving cold data, because of their main
 drawback: it takes around a minute to mount a tape from its shelf into a drive and position the
 reading head before starting reading data. This explains the current lack of academic effort to optimize
 relatively frequent data accesses. Nevertheless, more and more research projects require to handle
 tremendous volumes of data, which are not only destined to be archived but also regularly accessed
 for scientific analysis. Budget constraints impose the usage of tape storage, and optimizing tape data access therefore becomes more and more significant, and not limited to improving archive retrieval.</p>
 
-<p style="text-align:justify>The general idea of the VHS project is to propose new interactions between resource management
+<p align="justify">The general idea of the VHS project is to propose new interactions between resource management
 and tape systems. Using filesystem on tapes, we plan to design novel data placement
 strategies that will propose efficient data accesses by considering tapes at the level of the storage
 hierarchy by optimizing its operational cost.</p>
@@ -63,7 +63,7 @@ To integrate the drive in our local cluster, we will use an [IBM TS4300](https:/
 We ordered the project hardware!.
 
 ## July 2026
-<p style="text-align:justify> We finally received the hardware, just in time to start working on it!
+<p align="justify">We finally received the hardware, just in time to start working on it!
 Thank you IBM and UGAP for the support!</p>
 
 ## Aug 2026 
