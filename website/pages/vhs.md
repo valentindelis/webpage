@@ -67,7 +67,10 @@ We ordered the project hardware!.
 Thank you IBM and UGAP for the support!</p>
 
 ## Aug 2026 
-`Pending hardware installation...`
+`Pending hardware installation... Done!`
+![IBM TS4300 (front)](Images/ts_4300_front.png)
+!IBM TS4300 (top)](Images/ts_4300.jpg)
+![LTO-10 tapes](Images/tapes.jpg)
 
 ## Sept. 2026
 Louis DELYON will start his PhD thesis on the VHS project funding. Welcome aboard Louis!
