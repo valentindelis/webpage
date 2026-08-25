@@ -14,24 +14,24 @@ The project will start in **March 2026**, and will last until **September 2029**
 
 # Project abstract 
 
-<div style="text-align:justify> Magnetic tapes have been used to store computer data since the 1950s, so the layman now
+<p style="text-align:justify> Magnetic tapes have been used to store computer data since the 1950s, so the layman now
 often considers it as an outdated technology. However, tape storage is still and will remain essential in
 many fields such as academic research, international organisations or cloud companies for its strong practical benefits: low cost per TB, low energy consumption, longevity etc...
 This dependency on tapes has motivated industrial efforts in technology improvements, resulting in much faster data density progression on tape rather than on
 disk. After recent breakthroughs in materials used, tape capacity is expected to witness a massive
-leap in coming years, increasing to several hundreds of TB per tape. This evolution will amplify the main benefits of tape storage.</div>
+leap in coming years, increasing to several hundreds of TB per tape. This evolution will amplify the main benefits of tape storage.</p>
 
-<div style="text-align:justify> However, tapes have often been primarily considered for archiving cold data, because of their main
+<p style="text-align:justify>However, tapes have often been primarily considered for archiving cold data, because of their main
 drawback: it takes around a minute to mount a tape from its shelf into a drive and position the
 reading head before starting reading data. This explains the current lack of academic effort to optimize
 relatively frequent data accesses. Nevertheless, more and more research projects require to handle
 tremendous volumes of data, which are not only destined to be archived but also regularly accessed
-for scientific analysis. Budget constraints impose the usage of tape storage, and optimizing tape data access therefore becomes more and more significant, and not limited to improving archive retrieval.</div>
+for scientific analysis. Budget constraints impose the usage of tape storage, and optimizing tape data access therefore becomes more and more significant, and not limited to improving archive retrieval.</p>
 
-<div style="text-align:justify> The general idea of the VHS project is to propose new interactions between resource management
+<p style="text-align:justify>The general idea of the VHS project is to propose new interactions between resource management
 and tape systems. Using filesystem on tapes, we plan to design novel data placement
 strategies that will propose efficient data accesses by considering tapes at the level of the storage
-hierarchy by optimizing its operational cost.</div>
+hierarchy by optimizing its operational cost.</p>
 
 
 # Members
@@ -53,8 +53,8 @@ The project consists of:
   - a budget for hardware, including the one to own a high-performance last generation tape drive
   - a budget for missions and workshop organization
 
-<div style="text-align:justify> With the hardware budget, we will setup a [LTO-10 tape drive](https://www.ibm.com/fr-fr/products/lto-tape-drive) with a set of tapes. 
-To integrate the drive in our local cluster, we will use an [IBM TS4300](https://www.ibm.com/fr-fr/products/ts4300), that allows to rack the drive in a computing cabinet.</div>
+With the hardware budget, we will setup a [LTO-10 tape drive](https://www.ibm.com/fr-fr/products/lto-tape-drive) with a set of 20 LTO-10 tapes. 
+To integrate the drive in our local cluster, we will use an [IBM TS4300](https://www.ibm.com/fr-fr/products/ts4300), rackable in a computing cabinet with the drive and tapes inside.</p>
 
 
 # Project progress
@@ -63,8 +63,8 @@ To integrate the drive in our local cluster, we will use an [IBM TS4300](https:/
 We ordered the project hardware!.
 
 ## July 2026
-<div style="text-align:justify> We finally received the hardware, just in time to start working on it!
-Thank you IBM and UGAP for the support!</div>
+<p style="text-align:justify> We finally received the hardware, just in time to start working on it!
+Thank you IBM and UGAP for the support!</p>
 
 ## Aug 2026 
 `Pending hardware installation...`
