@@ -69,7 +69,9 @@ Thank you IBM and UGAP for the support!</p>
 ## Aug 2026 
 `Pending hardware installation... Done!`
 
-<img src="img/ts_4300_front.png" alt="drawing" width="200"/>
+<img src="img/ts_4300_front.png" alt="IBM TS4300 (front)" width="500"/>
+<img src="img/ts_4300.jpg" alt="IBM TS4300 (top)" width="500"/>
+<img src="img/tapes.jpg" alt="LTO-10 tapes" width="500"/>
 <!--![IBM TS4300 (front)](img/ts_4300_front.png)
 ![IBM TS4300 (top)](img/ts_4300.jpg)
 ![LTO-10 tapes](img/tapes.jpg)-->
