@@ -69,12 +69,29 @@ Thank you IBM and UGAP for the support!</p>
 ## Aug 2026 
 `Pending hardware installation... Done!`
 
-<img src="img/ts_4300_front.png" alt="IBM TS4300 (front)" width="500"/>
+<figure>
+  <img
+    src="img/ts_4300_front.png"
+    alt="IBM TS4300 (front)" />
+  <figcaption>IBM TS4300 (front)</figcaption>
+</figure>
+<figure>
+  <img
+    src="img/ts_4300.jpg"
+    alt="IBM TS4300 (top)" />
+  <figcaption>IBM TS4300 (top)</figcaption>
+</figure>
+<figure>
+  <img
+    src="img/tapes.jpg"
+    alt="LTO-10 tapes" />
+  <figcaption>LTO-10 tapes</figcaption>
+</figure>
+
+<!--<img src="img/ts_4300_front.png" alt="IBM TS4300 (front)" width="500"/>
 <img src="img/ts_4300.jpg" alt="IBM TS4300 (top)" width="500"/>
-<img src="img/tapes.jpg" alt="LTO-10 tapes" width="500"/>
-<!--![IBM TS4300 (front)](img/ts_4300_front.png)
-![IBM TS4300 (top)](img/ts_4300.jpg)
-![LTO-10 tapes](img/tapes.jpg)-->
+<img src="img/tapes.jpg" alt="LTO-10 tapes" width="500"/>-->
+
 
 ## Sept. 2026
 Louis DELYON will start his PhD thesis on the VHS project funding. Welcome aboard Louis!
