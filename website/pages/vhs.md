@@ -72,19 +72,22 @@ Thank you IBM and UGAP for the support!</p>
 <figure>
   <img
     src="img/ts_4300_front.png"
-    alt="IBM TS4300 (front)" />
+    alt="IBM TS4300 (front)" 
+    width="500"/>
   <figcaption>IBM TS4300 (front)</figcaption>
 </figure>
 <figure>
   <img
     src="img/ts_4300.jpg"
-    alt="IBM TS4300 (top)" />
+    alt="IBM TS4300 (top)"
+    width="500"/>
   <figcaption>IBM TS4300 (top)</figcaption>
 </figure>
 <figure>
   <img
     src="img/tapes.jpg"
-    alt="LTO-10 tapes" />
+    alt="LTO-10 tapes"
+    width="500"/>
   <figcaption>LTO-10 tapes</figcaption>
 </figure>
 
