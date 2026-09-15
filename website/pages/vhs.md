@@ -33,7 +33,7 @@ and tape systems. Using filesystem on tapes, we plan to design novel data placem
 strategies that will propose efficient data accesses by considering tapes at the level of the storage
 hierarchy by optimizing its operational cost.</p>
 
-<p align="justify">Project roadmap : 
+# Project roadmap : 
   <ul>
   <li>Performance analysis of tape operational cost
   <ul>
