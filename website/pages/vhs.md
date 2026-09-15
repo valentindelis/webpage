@@ -33,6 +33,23 @@ and tape systems. Using filesystem on tapes, we plan to design novel data placem
 strategies that will propose efficient data accesses by considering tapes at the level of the storage
 hierarchy by optimizing its operational cost.</p>
 
+<p align="justify">Project roadmap : 
+  <ul>
+  <li>Performance analysis of tape operational cost</li>
+    <li>Fine-grain performance evaluation of tape operations</li>
+      <li>New API for more efficient tape operations</li>
+    </ul>
+  <li>
+    New interactions between tape layer and storage hierarchy
+    <ul>
+     <li>Improve OS and tape device’s operations to optimize the overall data throughput.</li>
+     <li>Proactively optimize tape operations: packing data on an application-based, pre-fetching of data, data-buffering and write-behind, etc. </li>
+     <li>Build demonstrators on real use-cases</li>
+    </ul>
+  </li>
+</ul></p>
+
+
 
 # Members
 
