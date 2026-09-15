@@ -35,10 +35,13 @@ hierarchy by optimizing its operational cost.</p>
 
 <p align="justify">Project roadmap : 
   <ul>
-  <li>Performance analysis of tape operational cost</li>
+  <li>Performance analysis of tape operational cost
+  <ul>
     <li>Fine-grain performance evaluation of tape operations</li>
-      <li>New API for more efficient tape operations</li>
+    <li>New API for more efficient tape operations</li>
+    <li> Open-source approach using LTFS and LTO-10 tape drive</li>
     </ul>
+    </li>
   <li>
     New interactions between tape layer and storage hierarchy
     <ul>
