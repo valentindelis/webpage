@@ -9,8 +9,8 @@ footer: >-
 
 <h1 style="text-align:center; color="red"> **Welcome to the VHS project webpage!**</h1>
 
-The VHS project has been selected in the framework of the AAPG 2025 Call for Projects from ANR, with a JCJC funding.
-The project will start in **March 2026**, and will last until **September 2029**!
+The [VHS project](https://anr.fr/Projet-ANR-25-CE25-3999) has been selected in the framework of the AAPG 2025 Call for Projects from ANR, with a JCJC funding.
+The project started in **March 2026**, and will last until **August 2029**!
 
 # Project abstract 
 
@@ -117,7 +117,7 @@ Thank you IBM and UGAP for the support!</p>
 
 
 ## Sept. 2026
-Louis DELYON will start his PhD thesis on the VHS project funding. Welcome aboard Louis!
+Louis DELYON started  his PhD thesis on the VHS project. Welcome aboard Louis!
 
 The subject of the PhD can be found <a href="files/sujet_thèse.pdf">here</a>.
 
